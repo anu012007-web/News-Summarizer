@@ -1,0 +1,7 @@
+streamlit>=1.20.0
+numpy>=1.20.0
+nltk>=3.7
+transformers>=4.25.0
+torch>=1.12.0
+sentencepiece>=0.1.97
+protobuf>=3.20.0
